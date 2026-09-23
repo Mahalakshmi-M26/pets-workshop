@@ -113,3 +113,7 @@ def calculate_pet_count(pets):
     print("Pet count calculated")
 
     return count
+
+
+def subtract_numbers(a, b):
+   pass
