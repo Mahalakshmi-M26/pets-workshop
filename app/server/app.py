@@ -90,15 +90,6 @@ def get_pet_names(pets):
 
     return names
 
-def calculate_pet_count(pets):
-    count = 0
-
-    for pet in pets:
-        count += 1
-
-    print("Pet count calculated")
-
-    return count
 
 if __name__ == '__main__':
     app.run(debug=True, port=5100) # Port 5100 to avoid macOS conflicts
