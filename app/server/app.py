@@ -115,5 +115,4 @@ def calculate_pet_count(pets):
     return count
 
 
-def subtract_numbers(a, b):
-   pass
+
